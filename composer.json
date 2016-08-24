@@ -1,0 +1,10 @@
+{
+  "name": "xpressengine-plugin/sample",
+  "description": "This Package is Xpressengine Plugin - sample plugin for Xpressengine.",
+  "keywords": [
+    "xpressengine",
+    "plugin"
+  ],
+  "license": "LGPL-2.0",
+  "type": "library"
+}
